@@ -22,3 +22,5 @@ cols = {
     "ni": "Net Income",
     "at": "Total Assets"
 }
+
+GVKEY,datadate,fyear,indfmt,consol,popsrc,datafmt,conm,curcd,act,aqc,at,capx,ceq,ebit,ebitda,epsfi,epsfx,epspi,epspx,fincf,ivncf,lct,lo,lt,ni,oancf,revt,seq,teq,xrd,costat
