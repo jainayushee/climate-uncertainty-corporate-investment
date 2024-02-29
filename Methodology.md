@@ -34,3 +34,4 @@ Given the nature of our data—entries for multiple companies over a period of 1
 References
 - https://www.reed.edu/economics/parker/s10/312/notes/Notes8.pdf
 - https://towardsdatascience.com/fixed-effect-regression-simply-explained-ab690bd885cf
+- https://towardsdatascience.com/fixed-effect-regression-simply-explained-ab690bd885cf
